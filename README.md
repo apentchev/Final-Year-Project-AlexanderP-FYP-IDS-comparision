@@ -64,10 +64,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Two GitHub repositories were consulted for structural guidance:
 
 \- Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning (ML pipeline structure)
+https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
 
 \- SecurityNik/Data-Science-and-ML (Zeek processing patterns)
-
-
+https://github.com/SecurityNik/Data-Science-and-ML
 
 
 
