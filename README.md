@@ -4,8 +4,7 @@ Student: Alexander Pentchev (001239049)
 
 
 
-
-\ Repository Contents
+Repository Contents:
 
 
 
@@ -24,13 +23,12 @@ Student: Alexander Pentchev (001239049)
 **fyp\_gui.py** - GUI launcher for the ML pipeline 
 
 
-Requirements:
-- Windows OS
-- Python 3.8 or higher in
+
 
 How to Run:
 
 To run the GUI:
+1. install zeek session files from here: https://drive.google.com/drive/folders/1ePXalFnsxTxZYzkJqILt8AXgyvOnSBz4?usp=sharing
 1. Make sure the Zeek session folders are in the same folder as the .py files
 2. Double-click run_fyp_gui.bat
 3. The first run will take 2-3 minutes to install dependencies
@@ -66,6 +64,9 @@ https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Lear
 
 \- SecurityNik/Data-Science-and-ML (Zeek processing patterns)
 https://github.com/SecurityNik/Data-Science-and-ML
+
+
+
 
 
 
